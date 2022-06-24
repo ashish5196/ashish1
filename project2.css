@@ -871,11 +871,6 @@ hr {
     width: 100%;
   }
 
-  /* tbody{
-      width:100%;
-      height:calc(100% - 5.5934rem);
-    } */
-
   .cards > .card {
     min-width: 13rem;
     margin-right: 6px;
@@ -903,7 +898,7 @@ hr {
     margin-bottom: 10px;
   }
   .buttons1 {
-    padding: 0 15px;
+    padding: 10px 15px;
   }
   .buttons_op {
     flex-direction: column;
@@ -917,9 +912,7 @@ hr {
   .table_new {
     margin-bottom: 10px;
   }
-  .newGrouptag {
-    height: 2rem;
-  }
+
   .table_log {
     width: 100%;
   }
